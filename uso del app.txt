@@ -1,0 +1,6 @@
+git clone https://github.com/ada-school/express-fundamentals-code-lab
+cd express-fundamentals-code-lab
+git checkout auth
+npm install
+npm install express jsonwebtoken dotenv
+npm run test
